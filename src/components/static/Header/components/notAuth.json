@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Home",
+    "href": "/"
+  },
+  {
+    "name": "Log Up",
+    "href": "/logup"
+  },
+  {
+    "name": "Log In",
+    "href": "/login"
+  }
+]
